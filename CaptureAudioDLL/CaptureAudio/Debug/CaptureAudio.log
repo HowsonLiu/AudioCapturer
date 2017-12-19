@@ -1,0 +1,46 @@
+﻿  stdafx.cpp
+  Reflection.cpp
+  CaptureAudio.cpp
+d:\programming_project\vc\captureaudio\captureaudio\captureaudio.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\programming_project\vc\captureaudio\captureaudio\captureaudio.cpp(141): warning C4018: '<': signed/unsigned mismatch
+d:\programming_project\vc\captureaudio\captureaudio\captureaudio.cpp(154): warning C4018: '<': signed/unsigned mismatch
+  CAOutputFormat.cpp
+d:\programming_project\vc\captureaudio\captureaudio\caoutputformat.cpp(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\caoutputformat.cpp(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\programming_project\vc\captureaudio\captureaudio\caoutputformat.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\caoutputformat.cpp(66): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+d:\programming_project\vc\captureaudio\captureaudio\caoutputformat.cpp(85): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\caoutputformat.cpp(108): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: see declaration of 'strcpy'
+  CAMainProcess.cpp
+d:\programming_project\vc\captureaudio\captureaudio\camainprocess.cpp(52): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+  CAFile.cpp
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(45): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(47): warning C4996: 'filelength': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _filelength. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\corecrt_io.h(486): note: see declaration of 'filelength'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(89): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(131): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(214): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(228): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(442): warning C4244: '=': conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(454): warning C4244: 'argument': conversion from 'REFERENCE_TIME' to 'DWORD', possible loss of data
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(580): warning C4244: '=': conversion from 'double' to 'REFERENCE_TIME', possible loss of data
+  Generating Code...
+d:\programming_project\vc\captureaudio\captureaudio\cafile.cpp(256): warning C4715: 'CAObject::LoadData': not all control paths return a value
+  dllmain.cpp
+     Creating library D:\Programming_Project\VC\CaptureAudio\Debug\CaptureAudio.lib and object D:\Programming_Project\VC\CaptureAudio\Debug\CaptureAudio.exp
+  CaptureAudio.vcxproj -> D:\Programming_Project\VC\CaptureAudio\Debug\CaptureAudio.dll
+  CaptureAudio.vcxproj -> D:\Programming_Project\VC\CaptureAudio\Debug\CaptureAudio.pdb (Partial PDB)
